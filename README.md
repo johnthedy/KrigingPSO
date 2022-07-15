@@ -5,7 +5,7 @@ This MATLAB code calculate reliability of nonlinear complex problem, 14 problem 
 To include new problem from user, G.m and problem.m can be modified.
 
 Use MAIN.m to run the code
-To run MAIN.m, make sure dace toolbox has been added.
+To run MAIN.m, make sure dace toolbox has been added. Extract dace.rar at same folder with KrigingPSO codes.
 
 Kriging algorithm used in this study is solely taken from DACE toolbox 
 Thanks to:
